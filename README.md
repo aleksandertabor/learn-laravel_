@@ -35,6 +35,7 @@
 
 ## Topics Explained
 ### Queues
+[:movie_camera: **Queue it Up: Pizza Time** by Jeffrey Way](https://www.youtube.com/watch?v=XIAtk0eFONw "Queue it Up: Pizza Time")
 
 ## Courses
 [:movie_camera: **Master Laravel with Vue.js Fullstack Development** by Piotr Jura](https://www.udemy.com/course/master-laravel-6-with-vuejs-fullstack-development/ "Master Laravel with Vue.js Fullstack Development")
