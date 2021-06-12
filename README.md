@@ -1,4 +1,9 @@
-# Learn Laravel
+<div align="center">
+<h1>Learn Laravel</h1>
+</div>
+
+---
+
 # 🚩 Table of Contents
 1. [Legend (it's easier)](#legend)
 2. [Style Guides](#style-guides)
@@ -24,12 +29,14 @@
 
 [:link: **Laragon** by Leo Khoa](https://laragon.org/ "Laragon")
 
+[:link: **Ray** by Spatie](https://myray.app/ "Ray")
+
 ### Web
 [:link: **Laravel Playground** by BeyondCode](https://laravelplayground.com/ "Laravel Playground")
 
 ## Better Laravel
 ### Responses
-[:pencil: **Unconventional Laravel: Responsable classes** by Ryan Chandler](https://christoph-rumpel.com/2020/8/refactoring-php "Unconventional Laravel: Responsable classes")
+[:pencil: **Unconventional Laravel: Responsable classes** by Ryan Chandler](https://ryangjchandler.co.uk/posts/unconventional-laravel-responable-classes "Unconventional Laravel: Responsable classes")
 ### Pipelines
 [:pencil: **Understanding Laravel Pipelines** by Jeff Ochoa](https://jeffochoa.me/understanding-laravel-pipelines "Understanding Laravel Pipelines")
 
@@ -39,6 +46,10 @@
 
 ## Courses
 [:movie_camera: **Master Laravel with Vue.js Fullstack Development** by Piotr Jura](https://www.udemy.com/course/master-laravel-6-with-vuejs-fullstack-development/ "Master Laravel with Vue.js Fullstack Development")
+
+## Books
+[:link: **Laravel Queues In Action** by Mohamed Said](https://learn-laravel-queues.com/
+ "Laravel Queues In Action")
 
 ## Projects
 ### Open Sources
@@ -51,6 +62,19 @@
 
 ## Awesome Lists
 [:file_folder: **Awesome Laravel** by Chirag Gude](https://github.com/chiraggude/awesome-laravel "Awesome Laravel")
+
+## YouTube Channels
+
+[:link: **Official Laravel Channel**](https://www.youtube.com/c/LaravelPHP
+ "Official Laravel Channel")
+
+[:link: **Andre Madarang**](https://www.youtube.com/c/drehimself
+"Andre Madarang")
+
+[:link: **Matt Stauffer**](https://www.youtube.com/c/MattStauffer "Matt Stauffer")
+
+
+
 
 ## People
 [:link: **Laravel On Twitter - List**](https://twitter.com/i/lists/1403112274114514944 "Laravel On Twitter - List")
