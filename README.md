@@ -39,6 +39,10 @@
 [:pencil: **Unconventional Laravel: Responsable classes** by Ryan Chandler](https://ryangjchandler.co.uk/posts/unconventional-laravel-responable-classes "Unconventional Laravel: Responsable classes")
 ### Pipelines
 [:pencil: **Understanding Laravel Pipelines** by Jeff Ochoa](https://jeffochoa.me/understanding-laravel-pipelines "Understanding Laravel Pipelines")
+### Repositories
+[:pencil: **Using Repository Pattern in Laravel 5** by Mirza Pasic](https://bosnadev.com/2015/03/07/using-repository-pattern-in-laravel-5/ "Using Repository Pattern in Laravel 5")
+
+[:pencil: **Laravel Repository Pattern – PHP Design Pattern** by Asper Brothers](https://asperbrothers.com/blog/implement-repository-pattern-in-laravel/ "Laravel Repository Pattern – PHP Design Pattern")
 
 ## Topics Explained
 ### Queues
@@ -50,6 +54,9 @@
 ## Books
 [:link: **Laravel Queues In Action** by Mohamed Said](https://learn-laravel-queues.com/
  "Laravel Queues In Action")
+
+[:link: **Laravel Secrets** by Stefan Bauer & Bobby Bouwmann](https://laravelsecrets.com/
+"Laravel Secrets")
 
 ## Projects
 ### Open Sources
@@ -73,7 +80,7 @@
 
 [:link: **Matt Stauffer**](https://www.youtube.com/c/MattStauffer "Matt Stauffer")
 
-
+[:link: **Mohamed Said**](https://www.youtube.com/c/themsaid "Mohamed Said")
 
 
 ## People
