@@ -44,12 +44,25 @@
 
 [:pencil: **Laravel Repository Pattern – PHP Design Pattern** by Asper Brothers](https://asperbrothers.com/blog/implement-repository-pattern-in-laravel/ "Laravel Repository Pattern – PHP Design Pattern")
 
+### Seeders
+
+[:pencil: **Laravel Seeders on Steroids** by Ryan Chandler](https://ryangjchandler.co.uk/posts/laravel-seeders-on-steroids "Laravel Seeders on Steroids")
+
+
+### Actions
+
+[:pencil: **Why I wrote Laravel Actions** by Loris Leiva](https://lorisleiva.com/why-i-wrote-laravel-actions "Why I wrote Laravel Actions")
+
 ## Topics Explained
 ### Queues
 [:movie_camera: **Queue it Up: Pizza Time** by Jeffrey Way](https://www.youtube.com/watch?v=XIAtk0eFONw "Queue it Up: Pizza Time")
 
 ## Courses
-[:movie_camera: **Master Laravel with Vue.js Fullstack Development** by Piotr Jura](https://www.udemy.com/course/master-laravel-6-with-vuejs-fullstack-development/ "Master Laravel with Vue.js Fullstack Development")
+[:movie_camera: :file_folder: **Master Laravel with Vue.js Fullstack Development** by Piotr Jura](https://www.udemy.com/course/master-laravel-6-with-vuejs-fullstack-development/ "Master Laravel with Vue.js Fullstack Development")
+
+[:movie_camera: :green_book: :file_folder: **Laravel beyond CRUD** by Brent Roose](https://laravel-beyond-crud.com/ "Laravel beyond CRUD")
+
+[:movie_camera: :green_book: :file_folder: **Event Sourcing in Laravel** by Brent Roose](https://event-sourcing-laravel.com/ "Event Sourcing in Laravel")
 
 ## Books
 [:link: **Laravel Queues In Action** by Mohamed Said](https://learn-laravel-queues.com/
