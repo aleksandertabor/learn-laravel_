@@ -89,14 +89,14 @@
   "active": "a74fd355e2c35d7e",
   "lastOpenFiles": [
     "README.md",
-    "Other.md",
+    "Projects/Open Sources/Monica.md",
+    "Projects/Open Sources/Flashcards.md",
+    "Snippets/Macros.md",
     "Style Guides/Laravel & PHP.md",
     "Style Guides/Refactoring PHP.md",
-    "Better Laravel/Repositories.md",
-    "Better Laravel/Actions.md",
-    "Better Laravel/Pipelines.md",
-    "Books/Laravel Secrets.md",
-    "Books/Laravel Queues in Action.md",
-    "Companies/Asper Brothers.md"
+    "Topics Explained/Queues.md",
+    "Tools/Desktop/Laragon.md",
+    "Tools/Desktop/Invoker.md",
+    "Companies/BeyondCode.md"
   ]
 }
