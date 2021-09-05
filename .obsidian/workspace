@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Better Laravel/Batches.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Better Laravel/Batches.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "a74fd355e2c35d7e",
   "lastOpenFiles": [
+    "Better Laravel/Queues.md",
+    "People/Untitled.md",
+    "Better Laravel/Repositories.md",
+    "Better Laravel/Untitled.md",
+    "Topics Explained/Queues.md",
+    "Style Guides/Refactoring PHP.md",
+    "Style Guides/Laravel & PHP.md",
     "README.md",
     "Projects/Open Sources/Monica.md",
-    "Projects/Open Sources/Flashcards.md",
-    "Snippets/Macros.md",
-    "Style Guides/Laravel & PHP.md",
-    "Style Guides/Refactoring PHP.md",
-    "Topics Explained/Queues.md",
-    "Tools/Desktop/Laragon.md",
-    "Tools/Desktop/Invoker.md",
-    "Companies/BeyondCode.md"
+    "Projects/Open Sources/Flashcards.md"
   ]
 }
