@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Better Laravel/Development.md",
+            "file": "Better Laravel/Tests.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Better Laravel/Development.md",
+                "file": "Better Laravel/Tests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "a74fd355e2c35d7e",
   "lastOpenFiles": [
-    "Better Laravel/Security 1.md",
-    "Better Laravel/Security.md",
-    "Better Laravel/Responses.md",
-    "People/Andrew Schmelyun.md",
-    "Tools/Web/Laravel Playground.md",
+    "Better Laravel/Tests.md",
+    "Companies/Untitled.md",
     "Companies/Spatie.md",
     "Companies/BeyondCode.md",
     "Companies/Asper Brothers.md",
-    "People/Christoph Rumpel.md",
-    "People/Brent Roose.md"
+    "People/Untitled.md",
+    "People/Ryan Chandler.md",
+    "Better Laravel/Seeders.md",
+    "Better Laravel/Untitled.md",
+    "README.md"
   ]
 }
