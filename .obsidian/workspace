@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Better Laravel/Tests.md",
+            "file": "Better Laravel/Form Requests.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Better Laravel/Tests.md",
+                "file": "Better Laravel/Form Requests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "a74fd355e2c35d7e",
   "lastOpenFiles": [
+    "Better Laravel/Form Requests.md",
+    "Books/Laravel Secrets.md",
+    "Books/Laravel Queues in Action.md",
+    "Better Laravel/Casts.md",
+    "Better Laravel/Development.md",
+    "Better Laravel/Pipelines.md",
+    "Better Laravel/Security.md",
     "Better Laravel/Tests.md",
-    "Companies/Untitled.md",
-    "Companies/Spatie.md",
-    "Companies/BeyondCode.md",
-    "Companies/Asper Brothers.md",
-    "People/Untitled.md",
-    "People/Ryan Chandler.md",
     "Better Laravel/Seeders.md",
-    "Better Laravel/Untitled.md",
-    "README.md"
+    "Better Laravel/Responses.md"
   ]
 }
