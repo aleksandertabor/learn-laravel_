@@ -1,0 +1,5 @@
+Title: **Methods Are Affordances, Not Abilities**
+Author: [[Adam Wathan]]
+Link: https://adamwathan.me/2017/01/24/methods-are-affordances-not-abilities/
+
+---
