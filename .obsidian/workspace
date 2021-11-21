@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Better Laravel/URL Generation.md",
+            "file": "Better Laravel/Database.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Better Laravel/URL Generation.md",
+                "file": "Better Laravel/Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "a74fd355e2c35d7e",
   "lastOpenFiles": [
+    "Better Laravel/Database.md",
     "Better Laravel/URL Generation.md",
     "Better Laravel/Tests.md",
     "Better Laravel/Development.md",
@@ -96,7 +97,6 @@
     "Style Guides/Refactoring PHP.md",
     "Better Laravel/Livewire.md",
     "Better Laravel/Pipelines.md",
-    "People/Samuel Štancl.md",
-    "People/Caleb Porzio.md"
+    "People/Samuel Štancl.md"
   ]
 }

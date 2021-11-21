@@ -1,4 +1,4 @@
-Title: **Eloquent MySQL views*
+Title: **Eloquent MySQL views**
 
 Author: [[Brent Roose]]
 
