@@ -6,7 +6,7 @@
 
 <div align="center">
 Best resources to learn Laravel framework 👨🏼‍🎓
+<br>
+<br>
+	<a href="https://learning-laravel.com">🔗 https://learning-laravel.com</a>
 </div>
-
-### Link
-🔗 https://learning-laravel.com
