@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Better Laravel/Development.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Better Laravel/Development.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "a74fd355e2c35d7e",
   "lastOpenFiles": [
+    "README.md",
+    "Other.md",
+    "ℹ About.md",
+    "Companies/Companies.md",
+    "Books/🗂️ Books.md",
+    "Books/Laravel Queues in Action.md",
     "Better Laravel/Development.md",
     "Better Laravel/Livewire.md",
     "Better Laravel/APIs.md",
-    "Legend/🎥Video.md",
-    "People/Steve McDougall.md",
-    "Better Laravel/JavaScript.md",
-    "Better Laravel/Pipelines.md",
-    "Better Laravel/Responses.md",
-    "Better Laravel/Casts.md",
-    "Better Laravel/Batches.md"
+    "Legend/🎥Video.md"
   ]
 }
