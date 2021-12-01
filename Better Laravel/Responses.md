@@ -1,7 +1,7 @@
-Title: **Why I wrote Laravel Actions**
+Title: **Unconventional Laravel: Responsable classes**
 
-Author: [[Loris Leiva]]
+Author: [[Ryan Chandler]]
 
-Link: https://lorisleiva.com/why-i-wrote-laravel-actions
+Link: https://ryangjchandler.co.uk/posts/unconventional-laravel-responable-classes
 
 ---
