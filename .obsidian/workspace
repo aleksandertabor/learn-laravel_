@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Better Laravel/Responses.md",
+            "file": "Books/Laravel From Apprentice To Artisan - Advanced Architecture With Laravel 4.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Better Laravel/Responses.md",
+                "file": "Books/Laravel From Apprentice To Artisan - Advanced Architecture With Laravel 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "a74fd355e2c35d7e",
   "lastOpenFiles": [
-    "Better Laravel/Responses.md",
-    "ℹ About.md",
-    "Other.md",
-    "README.md",
-    "Better Laravel/🗂️ Better Laravel.md",
-    "Projects/Open Sources/Flashcards.md",
-    "Projects/Open Sources/Monica.md",
-    "Projects/🗂️ Projects.md",
-    "Topics Explained/🗂️ Topics Explained.md",
-    "Tools/🗂️ Tools.md"
+    "Books/Laravel From Apprentice To Artisan - Advanced Architecture With Laravel 4.md",
+    "Books/Laravel Queues in Action.md",
+    "Books/🗂️ Books.md",
+    "People/Taylor Otwell.md",
+    "Better Laravel/Database.md",
+    "Better Laravel/Development.md",
+    "Better Laravel/Repositories.md",
+    "People/Mateus Guimarães.md",
+    "Better Laravel/Livewire.md",
+    "Better Laravel/Pipelines.md"
   ]
 }
