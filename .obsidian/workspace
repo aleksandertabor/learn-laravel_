@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Books/Laravel From Apprentice To Artisan - Advanced Architecture With Laravel 4.md",
-            "mode": "source"
+            "file": "ℹ About.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Laravel From Apprentice To Artisan - Advanced Architecture With Laravel 4.md",
+                "file": "ℹ About.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "a74fd355e2c35d7e",
   "lastOpenFiles": [
-    "Books/Laravel From Apprentice To Artisan - Advanced Architecture With Laravel 4.md",
-    "Books/Laravel Queues in Action.md",
-    "Books/🗂️ Books.md",
-    "People/Taylor Otwell.md",
-    "Better Laravel/Database.md",
-    "Better Laravel/Development.md",
-    "Better Laravel/Repositories.md",
-    "People/Mateus Guimarães.md",
-    "Better Laravel/Livewire.md",
-    "Better Laravel/Pipelines.md"
+    "ℹ About.md",
+    "README.md",
+    "CONTRIBUTING.md",
+    "Other.md",
+    "Tools/🗂️ Tools.md",
+    "Tools/Web/Laravel Collection Playground.md",
+    "Tools/Web/JSON 2 DTO.md",
+    "People/Atymic.md",
+    "People/Andrew Schmelyun.md",
+    "People/Andre Madarang.md"
   ]
 }

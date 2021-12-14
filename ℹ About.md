@@ -13,3 +13,5 @@
 - [[🗂️ Topics Explained]]
 - [[Other]]
 
+## Contributing
+[[CONTRIBUTING]]
