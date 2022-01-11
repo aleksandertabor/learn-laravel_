@@ -2,11 +2,11 @@
 ## What will you find here?
 - [[🗂️ Better Laravel]]
 - [[🗂️ Books]]
+- [[🗂️ Code]]
 - [[🗂️ Companies]]
 - [[🗂️ Courses]]
 - [[👥 People]]
 - [[🗂️ Projects]]
-- [[🗂️ Snippets]]
 - [[🗂️ Style Guides]]
 - [[🗂️ Tips]]
 - [[🗂️ Tools]]

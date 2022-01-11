@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ℹ About.md",
-            "mode": "preview"
+            "file": "Code/Examples.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#openSourceProjects",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ℹ About.md",
+                "file": "Code/Examples.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "a74fd355e2c35d7e",
   "lastOpenFiles": [
+    "Code/Examples.md",
+    "People/Povilas Korop.md",
     "ℹ About.md",
-    "README.md",
-    "CONTRIBUTING.md",
     "Other.md",
-    "Tools/🗂️ Tools.md",
-    "Tools/Web/Laravel Collection Playground.md",
-    "Tools/Web/JSON 2 DTO.md",
-    "People/Atymic.md",
-    "People/Andrew Schmelyun.md",
-    "People/Andre Madarang.md"
+    "Code/🗂️ Code.md",
+    "Code/Snippets/Macros.md",
+    "Projects/🗂️ Projects.md",
+    "Better Laravel/Cache.md",
+    "Better Laravel/Casts.md",
+    "Books/🗂️ Books.md"
   ]
 }
