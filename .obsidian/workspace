@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Code/Examples.md",
-            "mode": "source"
+            "file": "Better Laravel/Responses.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/Examples.md",
+                "file": "Better Laravel/Responses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +100,15 @@
   },
   "active": "a74fd355e2c35d7e",
   "lastOpenFiles": [
+    "Better Laravel/Responses.md",
+    "Better Laravel/Eloquent.md",
+    "Better Laravel/Collections.md",
+    "Better Laravel/Models.md",
+    "People/Tim MacDonald.md",
+    "Better Laravel/Form Requests.md",
+    "Courses/YouTube channels.md",
+    "Better Laravel/View Models.md",
     "Code/Examples.md",
-    "People/Povilas Korop.md",
-    "ℹ About.md",
-    "Other.md",
-    "Code/🗂️ Code.md",
-    "Code/Snippets/Macros.md",
-    "Projects/🗂️ Projects.md",
-    "Better Laravel/Cache.md",
-    "Better Laravel/Casts.md",
-    "Books/🗂️ Books.md"
+    "People/Povilas Korop.md"
   ]
 }
