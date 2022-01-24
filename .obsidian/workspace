@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Better Laravel/Responses.md",
+            "file": "Tips/Code.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Better Laravel/Responses.md",
+                "file": "Tips/Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "a74fd355e2c35d7e",
   "lastOpenFiles": [
-    "Better Laravel/Responses.md",
+    "Tips/Code.md",
     "Better Laravel/Eloquent.md",
-    "Better Laravel/Collections.md",
-    "Better Laravel/Models.md",
-    "People/Tim MacDonald.md",
+    "Tips/🗂️ Tips.md",
+    "ℹ About.md",
+    "Style Guides/Laravel Clean Code Tactics.md",
+    "Better Laravel/Facades.md",
+    "Better Laravel/JavaScript.md",
     "Better Laravel/Form Requests.md",
-    "Courses/YouTube channels.md",
-    "Better Laravel/View Models.md",
-    "Code/Examples.md",
-    "People/Povilas Korop.md"
+    "Better Laravel/Value Objects.md",
+    "Better Laravel/View Models.md"
   ]
 }
