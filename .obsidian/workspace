@@ -101,14 +101,14 @@
   "active": "a74fd355e2c35d7e",
   "lastOpenFiles": [
     "Tips/Code.md",
-    "Better Laravel/Eloquent.md",
-    "Tips/🗂️ Tips.md",
-    "ℹ About.md",
-    "Style Guides/Laravel Clean Code Tactics.md",
-    "Better Laravel/Facades.md",
-    "Better Laravel/JavaScript.md",
+    "Better Laravel/Scheduler.md",
+    "People/Aaron Francis.md",
+    "Better Laravel/Models.md",
+    "Better Laravel/Domain-Driven Design (DDD).md",
     "Better Laravel/Form Requests.md",
-    "Better Laravel/Value Objects.md",
-    "Better Laravel/View Models.md"
+    "Domain-Driven Design (DDD).md",
+    "Domain-Driven Design (DDD).md",
+    "Facades.md",
+    "Better Laravel/Eloquent.md"
   ]
 }
