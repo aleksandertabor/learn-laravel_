@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Better Laravel/Cache.md",
+            "file": "People/👥 People.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Better Laravel/Cache.md",
+                "file": "People/👥 People.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "a74fd355e2c35d7e",
   "lastOpenFiles": [
-    "Better Laravel/Cache.md",
-    "People/Matthew Daly.md",
-    "People/Adel Faiz.md",
+    "People/👥 People.md",
+    "Better Laravel/🗂️ Better Laravel.md",
+    "Better Laravel/Design Patterns.md",
+    "People/Colin Decarlo.md",
+    "Design Patterns.md",
+    "Better Laravel/JavaScript.md",
+    "Code/Snippets/Macros.md",
+    "Tips/🗂️ Tips.md",
     "Tips/Code.md",
-    "Better Laravel/Scheduler.md",
-    "People/Aaron Francis.md",
-    "Better Laravel/Models.md",
-    "Better Laravel/Domain-Driven Design (DDD).md",
-    "Better Laravel/Form Requests.md",
-    "Domain-Driven Design (DDD).md"
+    "Better Laravel/Tests.md"
   ]
 }
