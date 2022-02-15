@@ -5,3 +5,8 @@ Author: [[Tim MacDonald]]
 Link: https://timacdonald.me/giving-collections-a-voice/
 
 ---
+Title: **Expressive Eloquent collections**
+
+Author: [[Tim MacDonald]]
+
+Link: https://youtu.be/06--kezKc0Q

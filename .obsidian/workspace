@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "People/👥 People.md",
+            "file": "Tips/Code.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/👥 People.md",
+                "file": "Tips/Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "a74fd355e2c35d7e",
   "lastOpenFiles": [
+    "Tips/Code.md",
+    "People/Jason McCreary.md",
+    "Better Laravel/Collections.md",
     "People/👥 People.md",
     "Better Laravel/🗂️ Better Laravel.md",
     "Better Laravel/Design Patterns.md",
     "People/Colin Decarlo.md",
     "Design Patterns.md",
     "Better Laravel/JavaScript.md",
-    "Code/Snippets/Macros.md",
-    "Tips/🗂️ Tips.md",
-    "Tips/Code.md",
-    "Better Laravel/Tests.md"
+    "Code/Snippets/Macros.md"
   ]
 }

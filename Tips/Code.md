@@ -8,7 +8,11 @@ Author: [[Samuel Štancl]]
 Link: https://laravel-code.tips
 
 ---
-
 Title: **Cruddy by Design**
 Author: [[Adam Wathan]]
 Link: https://youtu.be/MF0jFKvS4SI
+
+---
+Title: **Practicing YAGNI**
+Author: [[Jason McCreary]]
+Link: https://youtu.be/rpE3Z62FHaY
