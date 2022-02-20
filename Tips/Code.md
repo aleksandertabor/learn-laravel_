@@ -14,5 +14,5 @@ Link: https://youtu.be/MF0jFKvS4SI
 
 ---
 Title: **Practicing YAGNI**
-Author: [[Jason McCreary]]
+Author: 
 Link: https://youtu.be/rpE3Z62FHaY

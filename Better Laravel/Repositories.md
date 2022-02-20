@@ -13,3 +13,17 @@ Author: [[Asper Brothers]]
 Link: https://asperbrothers.com/blog/implement-repository-pattern-in-laravel/
 
 ---
+Title: **Useful Eloquent Repositories?**
+
+Author: [[Adel Faiz]]
+
+Link: https://adelf.tech/2019/read-eloquent-repositories
+
+---
+Title: **Please, stop talking about Repository pattern with Eloquent**
+
+Author: [[Adel Faiz]]
+
+Link: https://adelf.tech/2019/useless-eloquent-repositories
+
+---
