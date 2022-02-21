@@ -5,3 +5,8 @@ Author: [[Alexandru Stratulat]]
 Link: https://sandulat.com/mapping-requests-to-dtos-inside-form-requests/
 
 ---
+Title: **Mapping Form Request to Eloquent**
+
+Author: [[Marco Aurélio Deleu]]
+
+Link: https://medium.com/hackernoon/mapping-form-request-to-eloquent-6eb30ee9eb7d

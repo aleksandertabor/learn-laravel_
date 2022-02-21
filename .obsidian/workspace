@@ -7,8 +7,12 @@
         "id": "c02eff12bf74a1c3",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Better Laravel/Form Requests.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Better Laravel/Form Requests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,15 +100,15 @@
   },
   "active": "c02eff12bf74a1c3",
   "lastOpenFiles": [
+    "Better Laravel/Form Requests.md",
+    "People/Marco Aurélio Deleu.md",
     "Jason McCreary.md",
     "Tips/Code.md",
     "Tips/🗂️ Tips.md",
-    "People/Untitled.md",
     "Better Laravel/Collections.md",
     "People/wtf.md",
     "Jason McCreary.md",
     "People/Untitled 1.md",
-    "People/Jeff Ochoa.md",
-    "Jason McCreary.md"
+    "People/Jeff Ochoa.md"
   ]
 }
