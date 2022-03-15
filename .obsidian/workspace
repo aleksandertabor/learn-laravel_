@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Better Laravel/Domain-Driven Design (DDD).md",
+            "file": "Better Laravel/Database.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Single",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Better Laravel/Domain-Driven Design (DDD).md",
+                "file": "Better Laravel/Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +101,8 @@
   },
   "active": "c02eff12bf74a1c3",
   "lastOpenFiles": [
+    "Better Laravel/Database.md",
+    "Better Laravel/Design Patterns.md",
     "Better Laravel/Domain-Driven Design (DDD).md",
     "Better Laravel/Form Requests.md",
     "People/Marco Aurélio Deleu.md",
@@ -107,8 +110,6 @@
     "Tips/Code.md",
     "Tips/🗂️ Tips.md",
     "Better Laravel/Collections.md",
-    "People/wtf.md",
-    "Jason McCreary.md",
-    "People/Untitled 1.md"
+    "People/wtf.md"
   ]
 }
