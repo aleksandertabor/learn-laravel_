@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "c02eff12bf74a1c3",
+        "id": "afa3149c9517874c",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Single",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,17 +98,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c02eff12bf74a1c3",
+  "active": "afa3149c9517874c",
   "lastOpenFiles": [
     "Better Laravel/Database.md",
+    "People/Kai Sassnowski.md",
+    "Kai.md",
+    "People/Adam Wathan.md",
     "Better Laravel/Design Patterns.md",
     "Better Laravel/Domain-Driven Design (DDD).md",
     "Better Laravel/Form Requests.md",
     "People/Marco Aurélio Deleu.md",
     "Jason McCreary.md",
-    "Tips/Code.md",
-    "Tips/🗂️ Tips.md",
-    "Better Laravel/Collections.md",
-    "People/wtf.md"
+    "Tips/Code.md"
   ]
 }
