@@ -27,3 +27,10 @@ Author: [[Adel Faiz]]
 Link: https://adelf.tech/2019/useless-eloquent-repositories
 
 ---
+Title: **Understanding query objects**
+
+Author: [[Matthew Daly]]
+
+Link: https://matthewdaly.co.uk/blog/2019/01/27/understanding-query-objects/
+
+---
