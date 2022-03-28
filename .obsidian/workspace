@@ -7,12 +7,8 @@
         "id": "afa3149c9517874c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Better Laravel/Repositories.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Better Laravel/Repositories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +95,15 @@
   },
   "active": "afa3149c9517874c",
   "lastOpenFiles": [
+    "Kai.md",
+    "Courses/🗂️ Courses.md",
+    "Companies/🗂️ Companies.md",
+    "Books/🗂️ Books.md",
+    "Better Laravel/🗂️ Better Laravel.md",
     "Better Laravel/Repositories.md",
     "People/Matthew Daly.md",
     "Better Laravel/Value Objects.md",
     "Better Laravel/Tests.md",
-    "Better Laravel/Seeders.md",
-    "Better Laravel/Scheduler.md",
-    "Better Laravel/Security.md",
-    "Better Laravel/Models.md",
-    "Better Laravel/Pipelines.md",
-    "People/Martin Bean.md"
+    "Better Laravel/Seeders.md"
   ]
 }
