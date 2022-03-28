@@ -101,14 +101,14 @@
   "active": "afa3149c9517874c",
   "lastOpenFiles": [
     "Better Laravel/Repositories.md",
-    "Better Laravel/Database.md",
-    "People/Kai Sassnowski.md",
-    "Kai.md",
-    "People/Adam Wathan.md",
-    "Better Laravel/Design Patterns.md",
-    "Better Laravel/Domain-Driven Design (DDD).md",
-    "Better Laravel/Form Requests.md",
-    "People/Marco Aurélio Deleu.md",
-    "Jason McCreary.md"
+    "People/Matthew Daly.md",
+    "Better Laravel/Value Objects.md",
+    "Better Laravel/Tests.md",
+    "Better Laravel/Seeders.md",
+    "Better Laravel/Scheduler.md",
+    "Better Laravel/Security.md",
+    "Better Laravel/Models.md",
+    "Better Laravel/Pipelines.md",
+    "People/Martin Bean.md"
   ]
 }

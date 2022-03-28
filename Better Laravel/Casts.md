@@ -13,3 +13,9 @@ Author: [[Jess Archer]]
 Link: https://jessarcher.com/blog/casting-json-columns-to-value-objects/
 
 ---
+
+Title: **Increase Database Performance By Using Multiple Columns**
+
+Author: [[Luke Downing]]
+
+Link: https://downing.tech/posts/increase-database-performance-by-using-multiple-columns

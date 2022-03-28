@@ -34,3 +34,10 @@ Author: [[Matthew Daly]]
 Link: https://matthewdaly.co.uk/blog/2019/01/27/understanding-query-objects/
 
 ---
+Title: **Domain-Driven Design with Laravel - Repositories**
+
+Author: [[Martin Joo]]
+
+Link: https://martinjoo.dev/domain-driven-design-with-laravel-repositories
+
+---
