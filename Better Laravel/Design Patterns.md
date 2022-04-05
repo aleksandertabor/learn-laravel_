@@ -10,3 +10,10 @@ Title: **Patterns That Pay Off**
 Author: [[Matt Staufer]]
 
 Links: https://www.youtube.com/watch?v=enTb2E4vEos
+
+---
+Title: **The Registry Pattern, Laravel, and Your Sanity**
+
+Author: [[Rizqi Djamaluddin]]
+
+Links: http://rizqi.id/laravel-registry-pattern

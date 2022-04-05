@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "afa3149c9517874c",
+        "id": "b1c05012cbf9a800",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Better Laravel/Tests.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Better Laravel/Tests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,17 +98,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "afa3149c9517874c",
+  "active": "b1c05012cbf9a800",
   "lastOpenFiles": [
-    "Kai.md",
-    "Courses/🗂️ Courses.md",
-    "Companies/🗂️ Companies.md",
-    "Books/🗂️ Books.md",
-    "Better Laravel/🗂️ Better Laravel.md",
-    "Better Laravel/Repositories.md",
-    "People/Matthew Daly.md",
-    "Better Laravel/Value Objects.md",
     "Better Laravel/Tests.md",
-    "Better Laravel/Seeders.md"
+    "People/Liam Hammett.md",
+    "Better Laravel/Design Patterns.md",
+    "People/Matt Staufer.md",
+    "Better Laravel/Responses.md",
+    "People/Rizqi Djamaluddin.md",
+    "Rizqi Djamaluddin.md",
+    "People/Untitled.md",
+    "Kai.md",
+    "Courses/🗂️ Courses.md"
   ]
 }

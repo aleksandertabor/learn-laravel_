@@ -10,3 +10,10 @@ Title: **Working with fixture data in your tests**
 Author: [[Michael Dyrynda]]
 
 Link: https://dyrynda.com.au/blog/working-with-test-fixtures
+
+---
+Title: **Laravel Testing - CSS Selector Assertion Macros**
+
+Author: [[Liam Hammett]]
+
+Link: https://liamhammett.com/laravel-testing-css-selector-assertion-macros-D9o0YAQJ
