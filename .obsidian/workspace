@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Better Laravel/Tests.md",
+            "file": "Tools/Lectures.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Better Laravel/Tests.md",
+                "file": "Tools/Lectures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "b1c05012cbf9a800",
   "lastOpenFiles": [
-    "Better Laravel/Tests.md",
-    "People/Liam Hammett.md",
-    "Better Laravel/Design Patterns.md",
-    "People/Matt Staufer.md",
-    "Better Laravel/Responses.md",
-    "People/Rizqi Djamaluddin.md",
-    "Rizqi Djamaluddin.md",
-    "People/Untitled.md",
-    "Kai.md",
-    "Courses/🗂️ Courses.md"
+    "Tools/Lectures.md",
+    "People/Ben Ramsey.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Better Laravel/Facades.md",
+    "Better Laravel/APIs.md",
+    "Tips/Code.md",
+    "Tools/Desktop/Ray.md",
+    "Tools/Desktop/Laragon.md",
+    "Tools/Desktop/Invoker.md"
   ]
 }
