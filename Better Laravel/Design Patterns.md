@@ -17,3 +17,10 @@ Title: **The Registry Pattern, Laravel, and Your Sanity**
 Author: [[Rizqi Djamaluddin]]
 
 Links: http://rizqi.id/laravel-registry-pattern
+
+---
+Title: **Decorator Pattern vs. Proxy Pattern**
+
+Author: [[Doeke Norg]]
+
+Links: https://doeken.org/blog/decorator-vs-proxy-pattern
