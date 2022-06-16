@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Better Laravel/Blade.md",
+            "file": "Better Laravel/Factories.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Better Laravel/Blade.md",
+                "file": "Better Laravel/Factories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "882d87b09bb3d6c9",
   "lastOpenFiles": [
+    "Better Laravel/Factories.md",
+    "People/Joel Clermont.md",
+    "Better Laravel/Casts.md",
+    "Better Laravel/Database.md",
+    "Better Laravel/Actions.md",
     "Better Laravel/Blade.md",
     "People/Marcus Moore.md",
     "Better Laravel/Batches.md",
     "Better Laravel/Error Handling.md",
-    "People/Jack Miras.md",
-    "Jack Miras.md",
-    "People/Orkhan Ahmadov.md",
-    "Error Handling.md",
-    "Better Laravel/Facades.md",
-    "Better Laravel/Livewire.md"
+    "People/Jack Miras.md"
   ]
 }
