@@ -17,3 +17,10 @@ Title: **Laravel Testing - CSS Selector Assertion Macros**
 Author: [[Liam Hammett]]
 
 Link: https://liamhammett.com/laravel-testing-css-selector-assertion-macros-D9o0YAQJ
+
+---
+Title: **Running PHPUnit tests in parallel using GitHub actions**
+
+Author: [[Rias Van der Veken]]
+
+Link: https://rias.be/blog/running-phpunit-tests-in-parallel-using-github-actions
