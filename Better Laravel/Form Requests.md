@@ -10,3 +10,10 @@ Title: **Mapping Form Request to Eloquent**
 Author: [[Marco Aurélio Deleu]]
 
 Link: https://medium.com/hackernoon/mapping-form-request-to-eloquent-6eb30ee9eb7d
+
+---
+Title: **If FormRequests and invokable Controllers had a baby**
+
+Author: [[Loris Leiva]]
+
+Link: https://lorisleiva.com/if-formrequests-and-invokable-controllers-had-a-baby
