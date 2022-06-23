@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Better Laravel/Form Requests.md",
+            "file": "Better Laravel/Livewire.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Better Laravel/Form Requests.md",
+                "file": "Better Laravel/Livewire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +100,7 @@
   },
   "active": "882d87b09bb3d6c9",
   "lastOpenFiles": [
+    "Better Laravel/Livewire.md",
     "Better Laravel/Form Requests.md",
     "Miscellaneous/Untitled.md",
     "Books/Domain-Driven Design With Laravel.md",
@@ -108,7 +109,6 @@
     "Books/Laravel Official Documentation.md",
     "Courses/Develop and Deploy Laravel Applications with Docker.md",
     "Courses/Event Sourcing in Laravel.md",
-    "Courses/Laravel Package Training.md",
-    "Courses/Master Laravel with Vue.js Fullstack Development.md"
+    "Courses/Laravel Package Training.md"
   ]
 }

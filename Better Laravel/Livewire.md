@@ -18,3 +18,31 @@ Title: **Splitting a large Laravel Livewire Component**
 Author: [[Chris Rhymes]]
 
 Link: https://www.csrhymes.com/2020/12/01/splitting-a-large-livewire-component.html
+
+---
+Title: **How Livewire works (a deep dive)**
+
+Author: [[Caleb Porzio]]
+
+Link: https://calebporzio.com/how-livewire-works-a-deep-dive
+
+---
+Title: **Advanced Livewire: JavaScript Component Layer**
+
+Author: [[Samuel Štancl]]
+
+Link: https://forum.archte.ch/livewire/t/advanced-livewire-javascript-component-layer
+
+---
+Title: **Advanced Livewire: A better way of working with models**
+
+Author: [[Samuel Štancl]]
+
+Link: https://forum.archte.ch/livewire/t/advanced-livewire-a-better-way-of-working-with-models
+
+---
+Title: **Advanced Livewire: Abstracting notifications**
+
+Author: [[Samuel Štancl]]
+
+Link: https://forum.archte.ch/livewire/t/advanced-livewire-abstracting-notifications
