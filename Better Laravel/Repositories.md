@@ -41,3 +41,8 @@ Author: [[Martin Joo]]
 Link: https://martinjoo.dev/domain-driven-design-with-laravel-repositories
 
 ---
+Title: **Decorating Laravel repositories**
+
+Author: [[Matthew Daly]]
+
+Link: https://matthewdaly.co.uk/blog/2017/03/01/decorating-laravel-repositories/
