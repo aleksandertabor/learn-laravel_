@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e1bf000d305e2cf3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Better Laravel/Security.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Better Laravel/Repositories.md",
+                "file": "Better Laravel/Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,17 +122,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "882d87b09bb3d6c9",
+  "active": "e1bf000d305e2cf3",
   "lastOpenFiles": [
-    "People/Martin Joo.md",
+    "Better Laravel/Upload Files.md",
+    "Better Laravel/URL Generation.md",
+    "Better Laravel/Livewire.md",
     "Better Laravel/Repositories.md",
+    "People/Martin Joo.md",
     "Tools/Desktop/Laravel Kit.md",
     "People/Tareque Md Hanif.md",
     "Untitled.md",
     "Tools/Desktop/Tinkerwell.md",
-    "Tools/Desktop/Laragon.md",
-    "Tools/Desktop/Ray.md",
-    "Better Laravel/Livewire.md",
-    "Better Laravel/Form Requests.md"
+    "Tools/Desktop/Laragon.md"
   ]
 }
